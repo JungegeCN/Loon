@@ -6,7 +6,6 @@
 
 * 只测试自用脚本，其他大部分脚本未测试可用性.
 
-* 更新通知[频道](https://t.me/nzw9314News)
 
 ### Loon全局配置：
 
@@ -14,7 +13,6 @@
 
 
 ### Loon脚本订阅配置：
-* [视频教程](https://youtu.be/F1BEgma4xYA)
 
 * [Script.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Script.conf) 脚本订阅
 
