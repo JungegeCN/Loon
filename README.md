@@ -6,7 +6,8 @@
 
 * 只测试自用脚本，其他大部分脚本未测试可用性.
 
-
+###Loon全局配置：
+* [Loon.conf](https://raw.githubusercontent.com/JungegeCN/Loon/master/Loon.conf)
 ### Loon全局配置：
 
 * [Loon.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Loon.conf)
